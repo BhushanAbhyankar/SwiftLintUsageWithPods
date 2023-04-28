@@ -1,0 +1,6 @@
+framework module Pods_SwiftLintUsage {
+  umbrella header "Pods-SwiftLintUsage-umbrella.h"
+
+  export *
+  module * { export * }
+}
